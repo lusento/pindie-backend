@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Environment files
+.env
+
+# Logs
+logs/
+*.log
+
+# Directory for built files
+/dist
+
+# Other unnecessary files
+*.temp
+*.tmp{\rtf1}
