@@ -1,8 +1,9 @@
 // Список сайтов, которым мы разрешаем обращаться к серверу
 const allowedCors = [
-  // 'https://practicum.yandex.ru',
-  // 'https://students-projects.ru',
+  "frontend-kanteyki.nomoredomainswork.ru",
+  "backend-kanteyki.nomoredomainswork.ru",
   "localhost:3000",
+  "localhost:3001",
 ];
 
 // Функция, которая принимает объекты req (информация о запросе),
