@@ -12,6 +12,7 @@ const {
   checkIsGameExists,
   checkIfUsersAreSafe,
   checkIfCategoriesAvaliable,
+  checkIsVoteRequest
 } = require("../middlewares/games");
 const {
   sendAllGames,
@@ -40,7 +41,7 @@ gamesRouter.put(
   findGameById,
   updateGame,
   sendGameUpdated,
-  // checkIsVoteRequest,
+  checkIsVoteRequest,
   checkIfUsersAreSafe,
   checkIfCategoriesAvaliable,
   checkEmptyFields,
