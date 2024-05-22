@@ -1,7 +1,7 @@
 // Список сайтов, которым мы разрешаем обращаться к серверу
 const allowedCors = [
-  "frontend-kanteyki.nomoredomainswork.ru",
-  "backend-kanteyki.nomoredomainswork.ru",
+  "https://frontend-kanteyki.nomoredomainswork.ru",
+  "https://backend-kanteyki.nomoredomainswork.ru",
   "http://localhost:3000",
   "http://localhost:3001",
 ];
