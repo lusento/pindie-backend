@@ -1,4 +1,4 @@
-Ссылка на репозиторий с фронтендом:  https://github.com/lusento/pindie-app/tree/last-review
+Ссылка на репозиторий с фронтендом:  [https://github.com/lusento/pindie-app/tree/last-review](https://github.com/lusento/pindie-app](https://github.com/lusento/pindie-app)
 
 Ссылка на домен фронтенда: frontend-kanteyki.nomoredomainswork.ru
 
